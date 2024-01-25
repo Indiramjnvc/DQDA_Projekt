@@ -1,5 +1,19 @@
 # DQDA_Projekt
 Video Games - Analyse 
+# Forschungsfrage 1 
+Welche Muster gibt es in der Verteilung der Genrehäufigkeiten in Videospielen, und was könnten diese über die Entwicklungstrends in der Videospielindustrie aussagen?
+
+![image](https://github.com/Alisa99j/DQDA_Projekt/assets/155681145/18d2ff0d-f135-46aa-8cf7-e7b9f7f719d1)
+
+Die Grafik zeigt, dass das Genre 'Action' das mit Abstand beliebteste Genre ist, dicht gefolgt von 'Adventure'. Beide Genres sind bekannt für ihre dynamischen und interaktiven Gameplay-Elemente, was sie bei einem breiten Spektrum von Spielern beliebt macht. Das 'Fantasy'-Genre, das oft mit epischen Geschichten und komplexen Welten assoziiert ist, folgt an dritter Stelle, was darauf hinweist, dass auch immersive Spielerfahrungen sehr gefragt sind.
+
+Es gibt einen deutlichen Abfall in der Häufigkeit nach dem 'Fantasy'-Genre. Die Genres 'Family' und 'Sci-Fi' weisen weniger als die Hälfte der Häufigkeit von 'Fantasy' auf.
+
+Die geringere Häufigkeit der Genres 'Comedy', 'Crime', 'Mystery' und 'Thriller' könnte darauf hinweisen, dass diese Genres spezifischere Zielgruppen ansprechen oder dass sie oft als sekundäre Genres in Spielen erscheinen, die hauptsächlich als Action oder Adventure kategorisiert werden.
+
+Diese Verteilung könnte auch spiegeln, welche Arten von Spielen Entwickler bevorzugen oder als finanziell sicherer betrachten. 
+
+Zusammenfassend lässt sich sagen, dass die Videospielindustrie eine klare Neigung zu Action- und Adventure-Spielen zeigt. 
 
 # Forschungsfragen 
 Trends in der Genre-Popularität: Wie haben sich die verschiedenen Genres (Action, Adventure, Comedy, etc.) im Laufe der Zeit in ihrer Popularität (basierend auf Bewertungen und Stimmen) entwickelt? Gibt es erkennbare Trends oder Muster?
