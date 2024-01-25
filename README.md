@@ -5,7 +5,9 @@ Welche Muster gibt es in der Verteilung der Genrehäufigkeiten in Videospielen, 
 
 ![image](https://github.com/Alisa99j/DQDA_Projekt/assets/155681145/18d2ff0d-f135-46aa-8cf7-e7b9f7f719d1)
 
-Die Grafik zeigt, dass das Genre 'Action' das mit Abstand beliebteste Genre ist, dicht gefolgt von 'Adventure'. Beide Genres sind bekannt für ihre dynamischen und interaktiven Gameplay-Elemente, was sie bei einem breiten Spektrum von Spielern beliebt macht. Das 'Fantasy'-Genre, das oft mit epischen Geschichten und komplexen Welten assoziiert ist, folgt an dritter Stelle, was darauf hinweist, dass auch immersive Spielerfahrungen sehr gefragt sind.
+Die Grafik zeigt, dass das Genre 'Action' das mit Abstand beliebteste Genre ist, dicht gefolgt von 'Adventure'.
+Beide Genres sind bekannt für ihre dynamischen und interaktiven Gameplay-Elemente, was sie bei einem breiten Spektrum von Spielern beliebt macht.
+Das 'Fantasy'-Genre, das oft mit epischen Geschichten und komplexen Welten assoziiert ist, folgt an dritter Stelle, was darauf hinweist, dass auch immersive Spielerfahrungen sehr gefragt sind.
 
 Es gibt einen deutlichen Abfall in der Häufigkeit nach dem 'Fantasy'-Genre. Die Genres 'Family' und 'Sci-Fi' weisen weniger als die Hälfte der Häufigkeit von 'Fantasy' auf.
 
