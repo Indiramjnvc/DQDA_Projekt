@@ -3,6 +3,10 @@ Im Rahmen unseres Projekts haben wir anhand des Datensatzes "IMDB Video Games" v
 
 Um diese Forschungsfragen zu beantworten wurden folgende Methoden verwendet: Statistische Auswertungen, Zeitreihenanalyse, Kreuztabellen und Grafiken. 
 
+# Informationen zum Datensatz 
+
+![image](https://github.com/Alisa99j/DQDA_Projekt/assets/155681145/be5d94b4-13c3-47ef-b8c1-9803610fc4cc)
+
 # Forschungsfrage 1 - Häufigkeiten der Genres
 Welche Muster gibt es in der Verteilung der Genrehäufigkeiten in Videospielen, und was könnten diese über die Entwicklungstrends in der Videospielindustrie aussagen?
 
