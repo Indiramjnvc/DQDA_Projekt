@@ -50,16 +50,42 @@ Es scheint eine Tendenz zu geben, dass Spiele, die sich an ein älteres Publikum
 
 Insgesamt zeigen die Daten, dass Altersfreigaben in Zusammenhang mit der Bewertung und der Anzahl der abgegebenen Stimmen stehen, was auf einen Einfluss der Altersfreigabe auf die wahrgenommene Qualität und Beliebtheit eines Spiels hindeutet.
 
-
-# Forschungsfragen 
-
-Genre und Bewertung: Welcher Zusammenhang besteht zwischen den Genres eines Spiels (Action, Sci-Fi, etc.) und seiner durchschnittlichen Bewertung? Gibt es Genres, die durchweg höher oder niedriger bewertet werden?
-
-Altersfreigabe und Popularität: Hat die Altersfreigabe (certificate) eines Spiels einen Einfluss auf seine Popularität (Bewertungen und Stimmen)? Sind Spiele mit einer bestimmten Altersfreigabe im Durchschnitt beliebter?
-
-
-Verhältnis von Genres: Wie ist das Verhältnis von Spielen, die mehrere Genres (z.B. Action und Sci-Fi) kombinieren, im Vergleich zu Spielen, die sich auf ein einzelnes Genre konzentrieren? Wie beeinflusst diese Kombination die Bewertungen und Popularität?
+# Forschungsfrage 3 
 
 Einfluss des Erscheinungsjahres: Wie beeinflusst das Erscheinungsjahr die Bewertung und Popularität eines Spiels? Gibt es Trends, die auf das Alter eines Spiels hinweisen?
 
-Genre-Präferenzen über die Zeit: Gibt es Veränderungen in den Genre-Präferenzen über die Jahre? Welche Genres gewinnen an Beliebtheit und welche verlieren?
+![image](https://github.com/Alisa99j/DQDA_Projekt/assets/155681145/b5131cca-442a-4f84-9be0-ef823263a53e)
+
+Die durchschnittliche Bewertung der Spiele scheint im Laufe der Zeit relativ stabil zu sein, mit Werten, die größtenteils im Bereich von etwa 5,5 bis 7,5 liegen. Es gibt einige Ausreißer, vor allem in den frühen Jahren, wo die Bewertungen nicht sehr konsistenz scheinen, was auf eine geringere Anzahl von Spielen und somit auf eine größere Sensibilität gegenüber einzelnen Spielebewertungen hinweisen könnte.
+
+Ab den späten 1980er bis Anfang der 1990er Jahre stabilisiert sich die durchschnittliche Bewertung und zeigt einen allmählichen Anstieg.
+
+Die durchschnittliche Anzahl der Stimmen pro Spiel zeigt eine interessante Tendenz: Ab den späten 1990er Jahren gibt es einen allgemeinen Aufwärtstrend, der seinen Höhepunkt in den 2000er Jahren erreicht, gefolgt von einem scharfen Rückgang nach 2010.
+
+Dies könnte auf die zunehmende Verfügbarkeit und Popularität von Online-Bewertungsplattformen zurückzuführen sein. 
+
+Es scheint, dass das Erscheinungsjahr eines Spiels einen gewissen Einfluss auf die Popularität hat, gemessen an der Anzahl der Stimmen, die es erhält. Neuere Spiele haben möglicherweise noch nicht die Zeit gehabt, eine vergleichbare Anzahl von Stimmen zu sammeln wie ältere Spiele, was den Rückgang in den letzten Jahren erklären könnte.
+
+In Bezug auf die Bewertung scheint das Erscheinungsjahr keinen klaren, langfristigen Trend hinsichtlich der Qualität der Spiele anzuzeigen. Die Qualität, gemessen an der durchschnittlichen Bewertung, bleibt über die Jahre hinweg relativ konstant, abgesehen von natürlichen Schwankungen, die auf die Veröffentlichung von Spielen mit unterschiedlichem Erfolg in verschiedenen Jahren zurückzuführen sein können.
+
+Insgesamt deutet die Grafik darauf hin, dass das Alter eines Spiels hinsichtlich der Anzahl der Stimmen eine Rolle spielt, während die durchschnittliche Bewertung eines Spiels relativ altersunabhängig zu sein scheint
+
+# Forschungsfrage 4 
+Genre und Erscheinungsjahr-Korrelation: Gibt es eine Korrelation zwischen dem Erscheinungsjahr eines Spiels und den Genres, die in diesem Jahr populär waren? Wie haben sich die Genrepräferenzen im Laufe der Zeit verändert, und was könnte das über die Entwicklung der Spieleindustrie aussagen?
+
+![image](https://github.com/Alisa99j/DQDA_Projekt/assets/155681145/dc3c3732-9f5a-4502-bc03-334f42fc1c22)
+
+In der Grafik wurde für jedes Jahr der Anteil der Spiele pro Genre im Verhältnis zur Gesamtanzahl der Spiele berechnet. Die Daten wurden dann als Zeitreihe dargestellt, wobei jede Linie ein Genre repräsentiert. Die y-Achse zeigt den Anteil der Spiele des jeweiligen Genres, während die x-Achse das Erscheinungsjahr darstellt. Die verschiedenen Farben repräsentieren die unterschiedlichen Genres. 
+
+Die Grafik zeigt deutlich, dass bestimmte Genres im Laufe der Zeit an Popularität gewonnen oder verloren haben.  Das Genre 'Action' zum Beispiel scheint über den gesamten Zeitraum hinweg eine wesentliche Rolle einzunehmen, mit einem deutlichen Anstieg in den letzten Jahren (Farbe hellblau). 
+
+Genres wie 'Adventure' und 'Fantasy' zeigen ebenfalls einen Aufwärtstrend, was auf eine steigende Beliebtheit dieser Genres in neueren Spielen deutet.
+
+Einige Genres haben konstante, aber niedrigere Anteile , wie zb 'Crime' und 'Thriller', was darauf hindeutet, dass diese Genres eine konstante, aber kleinere Fangemeinde von Spieler:Innen haben.
+
+Man sieht in der Grafik deutlich, dass bestimmte Genres in bestimmten Zeiträumen an Popularität gewinnen, was zb auf neue technologische Entwicklungen deuten könnte oder auch auf gewisse Neuerscheinungen von bestimmten Videospielen.  
+
+Die Grafik legt nahe, dass es eine Veränderung in den Genrepräferenzen über die Zeit gibt, was auf eine Evolution der Spieleindustrie hindeutet. 
+
+Die Videospiel-Industrie scheint responsive auf solche Trends zu sein, was durch die Anpassung des Angebots an die Nachfrage nach bestimmten Genres gezeigt wird.
+
