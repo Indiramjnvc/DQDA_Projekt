@@ -1,3 +1,4 @@
+# Gruppe: Alisa Jonuzi, Indira Mujanovic, Viktoria Lisa Etl
 # Einführung
 Im Rahmen unseres Projekts haben wir anhand des Datensatzes "IMDB Video Games" verschiedene Aspekte von Videospielen untersucht um ein besseres Verständnis für die Trends und Popularität von Videospielen zu gewinnen. Untersucht wurde unter anderem die Genrehäufigkeit, der Einfluss der Altersfreigabe auf die Popularität, der Einfluss des Erscheinungsjahres auf die Popularität, ob es einen Zusammenhang zwischen dem Erscheinungsjahr eines Spiel in dem beliebtesten Genre in diesem Jahr gibt und ob es einen Zusammenhang zwischen dem Verhältnis von Genre und Alterfreigabe gibt. 
 
