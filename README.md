@@ -92,3 +92,29 @@ Die Videospiel-Industrie scheint responsive auf solche Trends zu sein, was durch
 
 # Forschungsfrage 5 - Verhältnis von Genre zu Altersfreigabe
 Welche Genres neigen dazu, welche Altersfreigaben zu erhalten? Gibt es bestimmte Genres, die häufiger eine bestimmte Altersfreigabe wie 'E' für jedermann oder 'M' für ein reifes Publikum bekommen? Könnte dies auf Genre-spezifische Inhalte zurückzuführen sein, die für bestimmte Altersgruppen geeigneter sind? Wie sieht der Code dafür aus? 
+
+Um die Forschungsfrage zu beantworten, welche Genres dazu neigen, bestimmte Altersfreigaben zu erhalten, wurde die Methode der Kreuztabelle (Contingency Table) verwendet.
+
+Diese Methode eignet sich besonders gut, da sie es ermöglicht, die Häufigkeiten der Kombinationen dieser kategorialen Variablen zu zählen und in einer Matrixform darzustellen. Dadurch kann man leicht erkennen, ob es bestimmte Muster gibt, wie etwa ob bestimmte Genres eine Tendenz zu bestimmten Altersfreigaben aufweisen.
+
+![image](https://github.com/Alisa99j/DQDA_Projekt/assets/155681145/4ec4d93a-2dfd-4bc2-94e5-fdb3e447baa7)
+
+![image](https://github.com/Alisa99j/DQDA_Projekt/assets/155681145/78222462-065f-4bef-8f37-2b8df0e53e42)
+
+Die Altersfreigabe 'T' (Teen) ist am häufigsten mit Action- und Adventure-Spielen verbunden, was darauf hindeutet, dass diese Genres für ein jugendliches Publikum beliebt und angemessen sind.
+
+Spiele mit der Freigabe 'M' (Mature) folgen dicht dahinter bei Action- und Adventure-Genres, aber es ist auch bemerkenswert, dass dieses Rating in Verbindung mit dem Crime-Genre häufiger vorkommt als bei anderen Genres. Dies könnte darauf hinweisen, dass Crime-Spiele tendenziell Inhalte aufweisen, die für ein erwachsenes Publikum als geeignet angesehen werden.
+
+Spiele mit der Einstufung 'E' (Everyone) sind bei Family-Spielen sehr häufig, was zu erwarten ist, da diese Spiele für alle Altersgruppen geeignet sind. Das Genre 'Fantasy' scheint ebenfalls eine signifikante Anzahl von 'E' Bewertungen zu haben, was auf familienfreundliche Inhalte hindeutet.
+Die Einstufung 'E10+' (Everyone 10 and older) wird auch hauptsächlich bei Family- und Adventure-Genres vergeben, was darauf schließen lässt, dass diese Spiele Inhalte enthalten, die für etwas ältere Kinder gedacht sind.
+
+Die Daten zeigen klare Muster in der Zuweisung von Altersfreigaben zu bestimmten Genres. Action- und Adventure-Spiele neigen dazu, Bewertungen zu erhalten, die sie für Jugendliche und Erwachsene geeignet machen ('T' und 'M'), während Family- und Fantasy-Genres häufiger als für alle Altersgruppen geeignet eingestuft werden ('E').
+
+
+
+
+
+
+
+
+
