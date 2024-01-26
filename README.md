@@ -8,6 +8,8 @@ Um diese Forschungsfragen zu beantworten wurden folgende Methoden verwendet: Sta
 
 ![image](https://github.com/Alisa99j/DQDA_Projekt/assets/155681145/be5d94b4-13c3-47ef-b8c1-9803610fc4cc)
 
+Der Datensatz wurde auf von Kaggle herangezogen: https://www.kaggle.com/datasets/muhammadadiltalay/imdb-video-games 
+
 # Forschungsfrage 1 - Häufigkeiten der Genres
 Welche Muster gibt es in der Verteilung der Genrehäufigkeiten in Videospielen, und was könnten diese über die Entwicklungstrends in der Videospielindustrie aussagen?
 
