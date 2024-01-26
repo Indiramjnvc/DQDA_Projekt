@@ -1,6 +1,6 @@
 # DQDA_Projekt
 Video Games - Analyse 
-# Forschungsfrage 1 
+# Forschungsfrage 1 - Häufigkeiten der Genres
 Welche Muster gibt es in der Verteilung der Genrehäufigkeiten in Videospielen, und was könnten diese über die Entwicklungstrends in der Videospielindustrie aussagen?
 
 ![image](https://github.com/Alisa99j/DQDA_Projekt/assets/155681145/18d2ff0d-f135-46aa-8cf7-e7b9f7f719d1)
@@ -50,9 +50,9 @@ Es scheint eine Tendenz zu geben, dass Spiele, die sich an ein älteres Publikum
 
 Insgesamt zeigen die Daten, dass Altersfreigaben in Zusammenhang mit der Bewertung und der Anzahl der abgegebenen Stimmen stehen, was auf einen Einfluss der Altersfreigabe auf die wahrgenommene Qualität und Beliebtheit eines Spiels hindeutet.
 
-# Forschungsfrage 3 
+# Forschungsfrage 3 - Einfluss des Erscheinungsjahres
 
-Einfluss des Erscheinungsjahres: Wie beeinflusst das Erscheinungsjahr die Bewertung und Popularität eines Spiels? Gibt es Trends, die auf das Alter eines Spiels hinweisen?
+Wie beeinflusst das Erscheinungsjahr die Bewertung und Popularität eines Spiels? Gibt es Trends, die auf das Alter eines Spiels hinweisen?
 
 ![image](https://github.com/Alisa99j/DQDA_Projekt/assets/155681145/b5131cca-442a-4f84-9be0-ef823263a53e)
 
@@ -70,8 +70,9 @@ In Bezug auf die Bewertung scheint das Erscheinungsjahr keinen klaren, langfrist
 
 Insgesamt deutet die Grafik darauf hin, dass das Alter eines Spiels hinsichtlich der Anzahl der Stimmen eine Rolle spielt, während die durchschnittliche Bewertung eines Spiels relativ altersunabhängig zu sein scheint
 
-# Forschungsfrage 4 
-Genre und Erscheinungsjahr-Korrelation: Gibt es eine Korrelation zwischen dem Erscheinungsjahr eines Spiels und den Genres, die in diesem Jahr populär waren? Wie haben sich die Genrepräferenzen im Laufe der Zeit verändert, und was könnte das über die Entwicklung der Spieleindustrie aussagen?
+# Forschungsfrage 4 - Genre und Erscheinungsjahr-Korrelation:
+
+Gibt es eine Korrelation zwischen dem Erscheinungsjahr eines Spiels und den Genres, die in diesem Jahr populär waren? Wie haben sich die Genrepräferenzen im Laufe der Zeit verändert, und was könnte das über die Entwicklung der Spieleindustrie aussagen?
 
 ![image](https://github.com/Alisa99j/DQDA_Projekt/assets/155681145/dc3c3732-9f5a-4502-bc03-334f42fc1c22)
 
@@ -89,3 +90,5 @@ Die Grafik legt nahe, dass es eine Veränderung in den Genrepräferenzen über d
 
 Die Videospiel-Industrie scheint responsive auf solche Trends zu sein, was durch die Anpassung des Angebots an die Nachfrage nach bestimmten Genres gezeigt wird.
 
+# Forschungsfrage 5 - Verhältnis von Genre zu Altersfreigabe
+Welche Genres neigen dazu, welche Altersfreigaben zu erhalten? Gibt es bestimmte Genres, die häufiger eine bestimmte Altersfreigabe wie 'E' für jedermann oder 'M' für ein reifes Publikum bekommen? Könnte dies auf Genre-spezifische Inhalte zurückzuführen sein, die für bestimmte Altersgruppen geeigneter sind? Wie sieht der Code dafür aus? 
