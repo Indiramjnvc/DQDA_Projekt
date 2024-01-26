@@ -29,16 +29,34 @@ Das Genre 'Action' stellt mit 31,8% den größten Anteil der Spiele im Datensatz
 
 'Comedy', 'Crime', 'Mystery' und 'Thriller' haben die niedrigsten Anteile mit 4,8%, 3,4%, 3,2% und 3,2%. Diese Genres könnten spezialisierte Nischen darstellen, die auf bestimmte Spielergruppen ausgerichtet sind oder oft in Kombination mit anderen Genres wie Action und Adventure auftreten.
 
+# Forschungsfrage 2 
+Altersfreigabe und Popularität: Hat die Altersfreigabe (certificate) eines Spiels einen Einfluss auf seine Popularität (Bewertungen und Stimmen)? Sind Spiele mit einer bestimmten Altersfreigabe im Durchschnitt beliebter?
+
+Die folgende Grafik zeigt die durchschnittliche Bewertung (rating) und die durchschnittliche Anzahl von Stimmen (votes) für Spiele, gruppiert nach ihrer Altersfreigabe (certificate).
+
+![image](https://github.com/Alisa99j/DQDA_Projekt/assets/155681145/1f624661-0233-4b36-93ca-811f379bbdb3)
+
+Spiele mit der Altersfreigabe 'M' (Mature) haben die höchste durchschnittliche Bewertung mit 7.52. Dies könnte darauf hinweisen, dass Spiele, die für ein erwachsenes Publikum bestimmt sind, höher bewertet werden, möglicherweise weil sie komplexere Themen besitzen. 
+
+Spiele mit der Altersfreigabe 'M' haben auch die höchste durchschnittliche Anzahl an Stimmen. Dies deutet auf die größte Popularität oder auf eine aktivere Spielergemeinschaft. 
+
+Die Altersfreigaben '12', 'T' (Teen) und 'E10+' (Everyone 10 and older) folgen mit durchschnittlichen Bewertungen von 7.35, 7.30 bzw. 7.18. Dies deutet darauf hin, dass auch Spiele, die sich an Teenager und etwas jüngere Spieler richten, gut bewertet werden
+
+Altersfreigaben mit weniger geläufigen Bezeichnungen, wie 'MA-13', 'TV-MA', 'TV-14' und 'Approved', haben entweder eine sehr geringe Anzahl von Stimmen oder sehr spezifische Durchschnittsbewertungen, was darauf hinweisen könnte, dass diese Kategorien seltener verwendet werden oder nur eine kleine Anzahl von Spielen repräsentieren.
+
+Not Rated' und 'Unrated' Spiele haben eine breite Streuung in Bewertungen und Stimmen, was auf eine diverse Gruppe von Spielen hindeutet, die entweder nicht offiziell bewertet wurden oder aus anderen Gründen keine Bewertung erhalten haben.
+
+Es scheint eine Tendenz zu geben, dass Spiele, die sich an ein älteres Publikum richten (wie 'M' und 'T'), im Durchschnitt besser bewertet werden und mehr Bewertungen erhalten als Spiele für jüngere Zielgruppen. Dies könnte auf eine größere Spielerbasis in diesen Altersgruppen oder auf eine höhere Qualität und Tiefgründigkeit der Spiele hinweisen, die diese Altersgruppen ansprechen. 
+
+Insgesamt zeigen die Daten, dass Altersfreigaben in Zusammenhang mit der Bewertung und der Anzahl der abgegebenen Stimmen stehen, was auf einen Einfluss der Altersfreigabe auf die wahrgenommene Qualität und Beliebtheit eines Spiels hindeutet.
+
+
 # Forschungsfragen 
-Trends in der Genre-Popularität: Wie haben sich die verschiedenen Genres (Action, Adventure, Comedy, etc.) im Laufe der Zeit in ihrer Popularität (basierend auf Bewertungen und Stimmen) entwickelt? Gibt es erkennbare Trends oder Muster?
 
 Genre und Bewertung: Welcher Zusammenhang besteht zwischen den Genres eines Spiels (Action, Sci-Fi, etc.) und seiner durchschnittlichen Bewertung? Gibt es Genres, die durchweg höher oder niedriger bewertet werden?
 
-Handlung und Genre: Wie beeinflusst die Handlung eines Spiels seine Zuordnung zu bestimmten Genres? Gibt es bestimmte Handlungselemente, die typisch für bestimmte Genres sind?
-
 Altersfreigabe und Popularität: Hat die Altersfreigabe (certificate) eines Spiels einen Einfluss auf seine Popularität (Bewertungen und Stimmen)? Sind Spiele mit einer bestimmten Altersfreigabe im Durchschnitt beliebter?
 
-Vorhersage der Spielbewertung: Können wir anhand der verfügbaren Daten (Genre, Jahr, Handlung, Altersfreigabe) die Bewertung eines Spiels vorhersagen?
 
 Verhältnis von Genres: Wie ist das Verhältnis von Spielen, die mehrere Genres (z.B. Action und Sci-Fi) kombinieren, im Vergleich zu Spielen, die sich auf ein einzelnes Genre konzentrieren? Wie beeinflusst diese Kombination die Bewertungen und Popularität?
 
