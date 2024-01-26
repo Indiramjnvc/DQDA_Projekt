@@ -8,7 +8,7 @@ Um diese Forschungsfragen zu beantworten wurden folgende Methoden verwendet: Sta
 
 ![image](https://github.com/Alisa99j/DQDA_Projekt/assets/155681145/be5d94b4-13c3-47ef-b8c1-9803610fc4cc)
 
-Der Datensatz wurde auf von Kaggle herangezogen: https://www.kaggle.com/datasets/muhammadadiltalay/imdb-video-games 
+Der Datensatz wurde von Kaggle herangezogen: https://www.kaggle.com/datasets/muhammadadiltalay/imdb-video-games 
 
 # Forschungsfrage 1 - Häufigkeiten der Genres
 Welche Muster gibt es in der Verteilung der Genrehäufigkeiten in Videospielen, und was könnten diese über die Entwicklungstrends in der Videospielindustrie aussagen?
@@ -50,7 +50,7 @@ Spiele mit der Altersfreigabe 'M' (Mature) haben die höchste durchschnittliche 
 
 Spiele mit der Altersfreigabe 'M' haben auch die höchste durchschnittliche Anzahl an Stimmen. Dies deutet auf die größte Popularität oder auf eine aktivere Spielergemeinschaft. 
 
-Die Altersfreigaben '12', 'T' (Teen) und 'E10+' (Everyone 10 and older) folgen mit durchschnittlichen Bewertungen von 7.35, 7.30 bzw. 7.18. Dies deutet darauf hin, dass auch Spiele, die sich an Teenager und etwas jüngere Spieler richten, gut bewertet werden
+Die Altersfreigaben '12', 'T' (Teen) und 'E10+' (Everyone 10 and older) folgen mit durchschnittlichen Bewertungen von 7.35, 7.30 bzw. 7.18. Dies deutet darauf hin, dass auch Spiele, die sich an Teenager und etwas jüngere Spieler richten, gut bewertet werden.
 
 Altersfreigaben mit weniger geläufigen Bezeichnungen, wie 'MA-13', 'TV-MA', 'TV-14' und 'Approved', haben entweder eine sehr geringe Anzahl von Stimmen oder sehr spezifische Durchschnittsbewertungen, was darauf hinweisen könnte, dass diese Kategorien seltener verwendet werden oder nur eine kleine Anzahl von Spielen repräsentieren.
 
@@ -122,6 +122,7 @@ Die Daten zeigen klare Muster in der Zuweisung von Altersfreigaben zu bestimmten
 
 # Ergebnisse der Forschung 
  # Genrehäufigkeiten in Videospielen:
+
 •	Action und Adventure sind die beliebtesten Genres.
 
 •	Fantasy folgt an dritter Stelle. 
@@ -129,19 +130,25 @@ Die Daten zeigen klare Muster in der Zuweisung von Altersfreigaben zu bestimmten
 •	Genres wie Family und Sci-Fi sind weniger häufig.
 
 •	Niedrigere Häufigkeiten bei Comedy, Crime, Mystery und Thriller könnten auf spezifischere Zielgruppen hinweisen.
+
  # Altersfreigabe und Popularität:
+
 •	Spiele mit der Freigabe 'M' (Mature) haben die höchsten durchschnittlichen Bewertungen und die meisten Stimmen, was auf eine Beliebtheit bei einem erwachsenen Publikum hinweist.
 
 •	Andere Altersfreigaben wie '12', 'T' (Teen) und 'E10+' (Everyone 10 and older) sind ebenfalls gut bewertet.
 
 •	Es scheint eine Tendenz zu geben, dass Spiele für ältere Zielgruppen im Durchschnitt besser bewertet werden und mehr Bewertungen erhalten. 
+
 # Einfluss des Erscheinungsjahres auf Bewertung und Popularität:
+
 •	Die durchschnittliche Bewertung der Spiele bleibt über die Zeit relativ stabil.
 
 •	Die durchschnittliche Anzahl der Stimmen pro Spiel zeigt einen Aufwärtstrend bis in die 2000er Jahre, gefolgt von einem Rückgang.
 
 •	Das Erscheinungsjahr scheint einen Einfluss auf die Anzahl der Stimmen zu haben, aber nicht auf die durchschnittliche Bewertung.
+
 # Genre und Erscheinungsjahr-Korrelation:
+
 •	Bestimmte Genres wie Action, Adventure und Fantasy zeigen im Laufe der Zeit einen Aufwärtstrend.
 
 •	Genres wie Crime und Thriller bleiben konstant, aber mit niedrigeren Anteilen.
@@ -149,6 +156,7 @@ Die Daten zeigen klare Muster in der Zuweisung von Altersfreigaben zu bestimmten
 •	Die Veränderungen in den Genrepräferenzen könnten zb auf technologische Entwicklungen  hinweisen.
 
 •	Die Videospiel-Industrie scheint auf diese Trends zu reagieren, indem sie das Spielangebot entsprechend anpasst. 
+
 # Verhältnis von Genre zu Altersfreigabe:
 
 •	 Die Altersfreigabe 'T' (Teen) ist häufig mit Action- und Adventure-Spielen verbunden.
